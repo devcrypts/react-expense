@@ -1,11 +1,9 @@
-import './App.css';
-
 function App() {
-  return (
-    <div className="App">
-          Learn React
-    </div>
-  );
+    return (
+        <>
+            Learn React
+        </>
+    );
 }
 
 export default App;
