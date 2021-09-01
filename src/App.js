@@ -1,7 +1,13 @@
+import ExpenseItem from './components/ExpenseItem';
+
 function App() {
     return (
         <>
-            Learn React
+            <ExpenseItem/>
+
+            <ExpenseItem></ExpenseItem>
+
+            <ExpenseItem></ExpenseItem>
         </>
     );
 }
